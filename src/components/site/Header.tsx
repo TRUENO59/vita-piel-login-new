@@ -15,7 +15,7 @@ export function Header({ search, setSearch, onOpenInventory }: Props) {
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 md:gap-6 md:px-6">
         <a href="#top" className="font-display text-xl font-semibold tracking-tight md:text-2xl">
-          VITTA<span className="text-primary">PIEL</span>
+          XVITTA<span className="text-primary">PIEL</span>
         </a>
         <nav className="hidden flex-1 items-center gap-6 text-sm text-muted-foreground lg:flex">
           <a href="#catalogo" className="transition-colors hover:text-foreground">Catálogo</a>
